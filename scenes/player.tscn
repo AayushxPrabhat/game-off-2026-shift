@@ -16,3 +16,5 @@ texture = ExtResource("1_3vyb7")
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1401810368]
 scale = Vector2(0.53613347, 0.37805)
 shape = SubResource("RectangleShape2D_onrkg")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=480451376]
